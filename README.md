@@ -17,7 +17,6 @@
 
 ### 📫 **How to reach me**
 ✉️ **Email:** vaibhavsinha0825@gmail.com  
-🌐 **Portfolio:** [My Portfolio Website](#)
 
 ---
 
