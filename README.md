@@ -9,8 +9,10 @@
 ---
 
 ### 🌟 **My Projects**
-🚀 [Wild Oasis - A Hotel management website](https://github.com/VaibhavSinha25/the-wild-oasis)  
-🌍 [Natours - A Tour package booking website](https://github.com/VaibhavSinha25/natours)  
+🏫 [Campus Connect - A Social network web app](https://campus-connect-chi-ten.vercel.app/Login)
+©️ [BPITEats - Canteen food ordering web app](https://bpitcanteen.vercel.app/)
+🚀 [Wild Oasis - A Hotel management web app](https://github.com/VaibhavSinha25/the-wild-oasis)  
+🌍 [Natours - A Tour package booking web app](https://github.com/VaibhavSinha25/natours)  
 🗺️ [Mapty - Using Open Street API](https://github.com/VaibhavSinha25/Mapty)
 
 ---
