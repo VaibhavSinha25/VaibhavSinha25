@@ -1,9 +1,8 @@
 <h1 align="center" style="color: #FF6F61; font-family: 'Fira Code', monospace;">Hi 👋, I'm <span style="color: #00C9A7;">Vaibhav Sinha</span></h1>
 <h3 align="center" style="color: #3B82F6; font-family: 'Fira Code', monospace;">A passionate UI/UX developer from India</h3>
 
-<!-- Typing Animation with Cursor and Custom Colors -->
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=00C9A7&center=true&vCenter=true&width=500&lines=Welcome+to+my+GitHub!;Crafting+beautiful+interfaces.;Open+to+collaborations!+🤝" alt="Typing Animation">
+<p align='center'>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&letterSpacing=1.5px&pause=1000&color=00C9A7&center=true&vCenter=true&width=435&lines=Full+Stack+Developer;Open+to+collaborations" alt="Typing SVG" /></a>
 </p>
 
 ---
